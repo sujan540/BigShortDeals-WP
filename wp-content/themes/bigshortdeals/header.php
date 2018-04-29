@@ -20,6 +20,7 @@
 </head>
 
 <body>
+    <div class="logo"></div>
     <div class="blog-masthead">
         <div class="container">
             <nav class="blog-nav">

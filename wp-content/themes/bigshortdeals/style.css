@@ -36,7 +36,7 @@ h6, .h6 {
  */
 
 .blog-masthead {
-  background-color: #428bca;
+  background-color: #9006B7;
   -webkit-box-shadow: inset 0 -2px 5px rgba(0,0,0,.1);
           box-shadow: inset 0 -2px 5px rgba(0,0,0,.1);
 }
@@ -136,7 +136,12 @@ h6, .h6 {
 /*
  * Blog posts
  */
-
+.logo{
+    content: url('image/logo-1.png');
+    width: 200px;
+    height: 150px;
+    margin-left: 5%;
+}
 .blog-post {
   margin-bottom: 60px;
 }
