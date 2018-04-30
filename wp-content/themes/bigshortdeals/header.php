@@ -20,7 +20,9 @@
 </head>
 
 <body>
-    <div class="logo"></div>
+    <div class="logo">
+        <img src="../image/logo.png" height="150" width="200">
+    </div>
     <div class="blog-masthead">
         <div class="container">
             <nav class="blog-nav">
@@ -31,6 +33,7 @@
     </div>
 
 	<div class="container">
+
 
 		<div class="blog-header">
         	<h1 class="blog-title"><a href="<?php echo get_bloginfo( 'wpurl' );?>"><?php echo get_bloginfo( 'name' ); ?></a></h1>

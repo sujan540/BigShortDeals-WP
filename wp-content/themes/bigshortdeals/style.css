@@ -137,9 +137,9 @@ h6, .h6 {
  * Blog posts
  */
 .logo{
-    content: url('image/logo-1.png');
+/*    content: url('image/logo-3.png');
     width: 200px;
-    height: 150px;
+    height: 150px;*/
     margin-left: 5%;
 }
 .blog-post {
