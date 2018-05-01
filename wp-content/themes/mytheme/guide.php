@@ -15,7 +15,7 @@ function fabthemes_theme_guide(){
 	
 	<h3>Welcome to '.wp_get_theme().' WordPress theme!</h3>
 	
-	<p class="about-description">Viper is a free affiliate directory WordPress theme. This is a WordPress 3+ ready theme with features like custom menu, featured images, custom post type, custom taxonomy, and jQuery image slider on the custom homepage template. Theme also comes with an option panel. </p>
+	<p class="about-description">My Theme is a free affiliate directory WordPress theme. This is a WordPress 3+ ready theme with features like custom menu, featured images, custom post type, custom taxonomy, and jQuery image slider on the custom homepage template. Theme also comes with an option panel. </p>
 	
 	<div class="welcome-panel-column-container">
 

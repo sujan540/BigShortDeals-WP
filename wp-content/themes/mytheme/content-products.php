@@ -21,7 +21,7 @@
 			<h1 class="entry-title"><?php the_title(); ?></h1>
 
 			<div class="entry-meta">
-				 <?php echo get_the_term_list( $post->ID, 'department', 'Department: ', ', ', '' ); ?> 
+				 <?php echo get_the_term_list( $post->ID, 'department', 'Category: ', ', ', '' ); ?>
 			 </div><!-- .entry-meta -->
 			 <p><?php echo get_post_meta($post->ID,'_product_info_product_description', true); ?></p>
 			 <div class="the-price cf">

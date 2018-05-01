@@ -47,17 +47,17 @@ function add_custom_taxonomies() {
 		'hierarchical' => true,
 		// This array of options controls the labels displayed in the WordPress Admin UI
 		'labels' => array(
-			'name' => _x( 'Department', 'taxonomy general name' ),
-			'singular_name' => _x( 'Department', 'taxonomy singular name' ),
-			'search_items' =>  __( 'Search Department' ),
-			'all_items' => __( 'All Department' ),
-			'parent_item' => __( 'Parent Department' ),
-			'parent_item_colon' => __( 'Parent Department:' ),
-			'edit_item' => __( 'Edit Department' ),
-			'update_item' => __( 'Update Department' ),
-			'add_new_item' => __( 'Add New Department' ),
-			'new_item_name' => __( 'New Department Name' ),
-			'menu_name' => __( 'Department' ),
+			'name' => _x( 'Category', 'taxonomy general name' ),
+			'singular_name' => _x( 'Category', 'taxonomy singular name' ),
+			'search_items' =>  __( 'Search Category' ),
+			'all_items' => __( 'All Category' ),
+			'parent_item' => __( 'Parent Category' ),
+			'parent_item_colon' => __( 'Parent Category:' ),
+			'edit_item' => __( 'Edit Category' ),
+			'update_item' => __( 'Update Category' ),
+			'add_new_item' => __( 'Add New Category' ),
+			'new_item_name' => __( 'New Category Name' ),
+			'menu_name' => __( 'Category' ),
 		),
 		// Control the slugs used for this taxonomy
 		'rewrite' => array(

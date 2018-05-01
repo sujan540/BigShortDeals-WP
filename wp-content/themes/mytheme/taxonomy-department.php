@@ -17,7 +17,7 @@ get_header(); ?>
 
 				<header class="page-header grid_12">
 					<h1 class="page-title">
-						 <?php echo get_the_term_list( $post->ID, 'department', 'Department: ', ', ', '' ); ?> 					</h1>
+						 <?php echo get_the_term_list( $post->ID, 'department', 'Category: ', ', ', '' ); ?> 					</h1>
 				</header><!-- .page-header -->
 
 					<div class="article-list cf">
